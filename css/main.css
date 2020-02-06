@@ -1,0 +1,21 @@
+
+* {
+	margin:0;
+	padding:0;
+}
+
+
+.mainfluid{
+    padding-bottom: 0px ! important;
+    margin-bottom: 0px;
+    margin-top: 0px ! important;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -10;
+    zoom: 1;
+    background-color: #eee;
+    background-size: cover;
+    background-position: center 0;
+    text-align: center;
+}
